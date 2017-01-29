@@ -6,6 +6,9 @@ I was entirely homeschooled from K-12 without ever attending a formal school. I 
 * This is a list.
 * In it, i am listing things.
 * Things have been listed.
-* Brace yourself for an image of turtles!
+* Brace yourself for an image of a turtle!
+
+
+
 
 ![alt tag](http://s2.quickmeme.com/img/54/548fd0feb76b21317b20b3b28b65f5565f3bf3a1802036643c60d6d94babf5f5.jpg)

@@ -8,4 +8,4 @@ I was entirely homeschooled from K-12 without ever attending a formal school. I 
 * Things have been listed.
 * Brace yourself for an image of turtles!
 
-![My image](url:http://s2.quickmeme.com/img/54/548fd0feb76b21317b20b3b28b65f5565f3bf3a1802036643c60d6d94babf5f5.jpg)
+![alt tag](http://s2.quickmeme.com/img/54/548fd0feb76b21317b20b3b28b65f5565f3bf3a1802036643c60d6d94babf5f5.jpg)
